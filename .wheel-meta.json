@@ -1,0 +1,22 @@
+{
+  "wheel_id": 472,
+  "structure": "umbrella",
+  "slug": "conveyanceraustralia-102",
+  "project": "conveyancing-services-brisbane-quotes-explained-dc7badbe20ee5c3",
+  "parent_t1_ref": "conveyanceraustralia-150",
+  "node_role": "feeder",
+  "money_target": "conveyanceraustralia.com.au",
+  "primary_kw": "conveyancing services brisbane quotes explained",
+  "intended_url": "https://sitesau.github.io/conveyanceraustralia-102/",
+  "tier": "T2",
+  "writeback_nonce": "0fda1b52db8dd40e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/conveyancing-services-brisbane-myths-d58ea0de900ac7524cbb6ef64d/",
+      "anchor": "Conveyancing Services Brisbane Myths: Myths and Realities",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
